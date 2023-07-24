@@ -1,7 +1,5 @@
 # Backtracking in Java
 
-![Backtracking](https://github.com/akanksha042/Backtracking/path/to/backtracking-image.png)
-
 This repository contains Java implementations of various backtracking algorithms. Backtracking is a powerful algorithmic technique used to solve problems by trying out different possibilities, discarding those that lead to dead-ends, and finding a valid solution eventually. The goal of this repository is to provide clean, well-documented, and efficient Java code for different backtracking problems.
 
 ## Table of Contents
