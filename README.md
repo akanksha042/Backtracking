@@ -8,7 +8,7 @@ This repository contains Java implementations of various backtracking algorithms
 2. [Backtracking Algorithms](#backtracking-algorithms)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. 
+   
 ## Introduction
 
 Backtracking is a systematic approach that explores all possible solutions to a problem by constructing partial solutions and then incrementally building upon them until a valid solution is found or all possibilities are exhausted. It is commonly used in various problem domains, such as finding a path in a maze, solving Sudoku puzzles, and many more.
